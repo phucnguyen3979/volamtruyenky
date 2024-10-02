@@ -80,7 +80,8 @@ info.phucnguyencongnghe@gmail.com
 
 1. Clone repo này về máy:
    ```bash
-git clone https://github.com/phucnguyen3979/volamtruyenky.git
+     git clone https://github.com/phucnguyen3979/volamtruyenky.git
+
 
 ## 📜 Bản quyền
 Bản quyền (c) 2024 [Phúc Nguyễn]. Dự án này được cấp phép theo [Giấy phép GPL-3.0](LICENSE).
